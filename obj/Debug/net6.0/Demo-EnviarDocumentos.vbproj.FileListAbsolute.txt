@@ -1,0 +1,40 @@
+C:\Users\jeann.oliveira\Desktop\Demo VB.net - PlugMessage\Demo-EnviarDocumentos\Demo-EnviarDocumentos\bin\Debug\net6.0\Demo-EnviarDocumentos.exe
+C:\Users\jeann.oliveira\Desktop\Demo VB.net - PlugMessage\Demo-EnviarDocumentos\Demo-EnviarDocumentos\bin\Debug\net6.0\Demo-EnviarDocumentos.deps.json
+C:\Users\jeann.oliveira\Desktop\Demo VB.net - PlugMessage\Demo-EnviarDocumentos\Demo-EnviarDocumentos\bin\Debug\net6.0\Demo-EnviarDocumentos.runtimeconfig.json
+C:\Users\jeann.oliveira\Desktop\Demo VB.net - PlugMessage\Demo-EnviarDocumentos\Demo-EnviarDocumentos\bin\Debug\net6.0\Demo-EnviarDocumentos.dll
+C:\Users\jeann.oliveira\Desktop\Demo VB.net - PlugMessage\Demo-EnviarDocumentos\Demo-EnviarDocumentos\bin\Debug\net6.0\Demo-EnviarDocumentos.pdb
+C:\Users\jeann.oliveira\Desktop\Demo VB.net - PlugMessage\Demo-EnviarDocumentos\Demo-EnviarDocumentos\bin\Debug\net6.0\RestSharp.dll
+C:\Users\jeann.oliveira\Desktop\Demo VB.net - PlugMessage\Demo-EnviarDocumentos\Demo-EnviarDocumentos\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\jeann.oliveira\Desktop\Demo VB.net - PlugMessage\Demo-EnviarDocumentos\Demo-EnviarDocumentos\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\jeann.oliveira\Desktop\Demo VB.net - PlugMessage\Demo-EnviarDocumentos\Demo-EnviarDocumentos\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\jeann.oliveira\Desktop\Demo VB.net - PlugMessage\Demo-EnviarDocumentos\Demo-EnviarDocumentos\obj\Debug\net6.0\Demo-EnviarDocumentos.vbproj.AssemblyReference.cache
+C:\Users\jeann.oliveira\Desktop\Demo VB.net - PlugMessage\Demo-EnviarDocumentos\Demo-EnviarDocumentos\obj\Debug\net6.0\Demo-EnviarDocumentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeann.oliveira\Desktop\Demo VB.net - PlugMessage\Demo-EnviarDocumentos\Demo-EnviarDocumentos\obj\Debug\net6.0\Demo-EnviarDocumentos.AssemblyInfoInputs.cache
+C:\Users\jeann.oliveira\Desktop\Demo VB.net - PlugMessage\Demo-EnviarDocumentos\Demo-EnviarDocumentos\obj\Debug\net6.0\Demo-EnviarDocumentos.AssemblyInfo.vb
+C:\Users\jeann.oliveira\Desktop\Demo VB.net - PlugMessage\Demo-EnviarDocumentos\Demo-EnviarDocumentos\obj\Debug\net6.0\Demo-EnviarDocumentos.vbproj.CoreCompileInputs.cache
+C:\Users\jeann.oliveira\Desktop\Demo VB.net - PlugMessage\Demo-EnviarDocumentos\Demo-EnviarDocumentos\obj\Debug\net6.0\Demo-EnviarDocumentos.vbproj.CopyComplete
+C:\Users\jeann.oliveira\Desktop\Demo VB.net - PlugMessage\Demo-EnviarDocumentos\Demo-EnviarDocumentos\obj\Debug\net6.0\Demo-EnviarDocumentos.dll
+C:\Users\jeann.oliveira\Desktop\Demo VB.net - PlugMessage\Demo-EnviarDocumentos\Demo-EnviarDocumentos\obj\Debug\net6.0\refint\Demo-EnviarDocumentos.dll
+C:\Users\jeann.oliveira\Desktop\Demo VB.net - PlugMessage\Demo-EnviarDocumentos\Demo-EnviarDocumentos\obj\Debug\net6.0\Demo-EnviarDocumentos.pdb
+C:\Users\jeann.oliveira\Desktop\Demo VB.net - PlugMessage\Demo-EnviarDocumentos\Demo-EnviarDocumentos\obj\Debug\net6.0\Demo-EnviarDocumentos.genruntimeconfig.cache
+C:\Users\jeann.oliveira\Desktop\Demo VB.net - PlugMessage\Demo-EnviarDocumentos\Demo-EnviarDocumentos\obj\Debug\net6.0\ref\Demo-EnviarDocumentos.dll
+C:\Users\jeann.oliveira\Desktop\Git\Demo-EnviarDocumentos\bin\Debug\net6.0\Demo-EnviarDocumentos.exe
+C:\Users\jeann.oliveira\Desktop\Git\Demo-EnviarDocumentos\bin\Debug\net6.0\Demo-EnviarDocumentos.deps.json
+C:\Users\jeann.oliveira\Desktop\Git\Demo-EnviarDocumentos\bin\Debug\net6.0\Demo-EnviarDocumentos.runtimeconfig.json
+C:\Users\jeann.oliveira\Desktop\Git\Demo-EnviarDocumentos\bin\Debug\net6.0\Demo-EnviarDocumentos.dll
+C:\Users\jeann.oliveira\Desktop\Git\Demo-EnviarDocumentos\bin\Debug\net6.0\Demo-EnviarDocumentos.pdb
+C:\Users\jeann.oliveira\Desktop\Git\Demo-EnviarDocumentos\bin\Debug\net6.0\RestSharp.dll
+C:\Users\jeann.oliveira\Desktop\Git\Demo-EnviarDocumentos\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\jeann.oliveira\Desktop\Git\Demo-EnviarDocumentos\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\jeann.oliveira\Desktop\Git\Demo-EnviarDocumentos\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\jeann.oliveira\Desktop\Git\Demo-EnviarDocumentos\obj\Debug\net6.0\Demo-EnviarDocumentos.vbproj.AssemblyReference.cache
+C:\Users\jeann.oliveira\Desktop\Git\Demo-EnviarDocumentos\obj\Debug\net6.0\Demo-EnviarDocumentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeann.oliveira\Desktop\Git\Demo-EnviarDocumentos\obj\Debug\net6.0\Demo-EnviarDocumentos.AssemblyInfoInputs.cache
+C:\Users\jeann.oliveira\Desktop\Git\Demo-EnviarDocumentos\obj\Debug\net6.0\Demo-EnviarDocumentos.AssemblyInfo.vb
+C:\Users\jeann.oliveira\Desktop\Git\Demo-EnviarDocumentos\obj\Debug\net6.0\Demo-EnviarDocumentos.vbproj.CoreCompileInputs.cache
+C:\Users\jeann.oliveira\Desktop\Git\Demo-EnviarDocumentos\obj\Debug\net6.0\Demo-EnviarDocumentos.vbproj.CopyComplete
+C:\Users\jeann.oliveira\Desktop\Git\Demo-EnviarDocumentos\obj\Debug\net6.0\Demo-EnviarDocumentos.dll
+C:\Users\jeann.oliveira\Desktop\Git\Demo-EnviarDocumentos\obj\Debug\net6.0\refint\Demo-EnviarDocumentos.dll
+C:\Users\jeann.oliveira\Desktop\Git\Demo-EnviarDocumentos\obj\Debug\net6.0\Demo-EnviarDocumentos.pdb
+C:\Users\jeann.oliveira\Desktop\Git\Demo-EnviarDocumentos\obj\Debug\net6.0\Demo-EnviarDocumentos.genruntimeconfig.cache
+C:\Users\jeann.oliveira\Desktop\Git\Demo-EnviarDocumentos\obj\Debug\net6.0\ref\Demo-EnviarDocumentos.dll
